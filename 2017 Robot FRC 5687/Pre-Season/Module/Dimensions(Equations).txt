@@ -1,0 +1,16 @@
+"robotLength" = 32in
+"robotWidth" = 27in
+"cvtDisplacement" = 5.75in
+"Ms_to_Ds" = 1.8in
+"dropCenterdistance" = .125in
+"centerWheel_outerWheel" = 10in
+"railDisplacement" = 5in
+"bearingOD" = 1.125in
+"centerShaftheight" = 1.5in
+"CIMplateHeight" = 4.5in
+"CIMplateWidth" = 6in
+"CIMplateDepth" = .25in
+"AndymarkRailinnerRailcenterWidth" = 4in
+"CVTbox_depth_below_axle" = 1.75in
+"CVTbox_Height" = 12in
+"CVTbox_Width" = 7in

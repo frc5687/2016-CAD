@@ -1,0 +1,5 @@
+"robotWidth" = 32in
+"robotLength" = 27in
+"railheigth" 3in
+
+

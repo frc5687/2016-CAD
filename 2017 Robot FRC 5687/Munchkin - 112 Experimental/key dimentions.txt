@@ -1,0 +1,8 @@
+﻿"robot dia"=35.65in
+"gear tooth:dia"=.05in
+"wheel dia"=4in
+"center wheel width"=32in
+"center wheelbase"= 14.3662in
+"center belt dist"=6.9866in
+"mid to end wheel dist"=6.3002in
+"rail2 offset" =12.5in
